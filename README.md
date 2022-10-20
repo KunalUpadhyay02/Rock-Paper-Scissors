@@ -21,6 +21,7 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to Rock-Paper-Scissor Game website.
+- [Demo](https://kunalupadhyay02.github.io/Rock-Paper-Scissors/)
 
 ## 🚀 Getting started
 
