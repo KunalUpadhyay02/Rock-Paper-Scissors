@@ -3,11 +3,20 @@
 <h3 align="center">Simple site to play rock-paper-scissor game.</h3>
 
 <p align="center">
-  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#-about-the-project">ABOUT THE PROJECT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">GETTING STARTED</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">HOW TO CONTRIBUTE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">LICENSE</a>
 </p>
+
+---
+
+<p align="center">
+  <img alt="screenshot" src="images/Screenshot.png">
+</p>
+
+---
+
 
 ## 💡 About the project
 
@@ -50,4 +59,6 @@ Contributions are always welcome😊!
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
+## References
+The idea came from the Basic Javascript Course from Platzi and took it as a reference. The tutorials of @TraversiMedia and @whatsdev was taken as a reference to understand better concepts and improve the design.
 
